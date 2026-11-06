@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "479984186930",
+    "project_id": "ox-vsmuta-helper",
+    "storage_bucket": "ox-vsmuta-helper.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479984186930:android:2b3ebcea86861c8e756e2b",
+        "android_client_info": {
+          "package_name": "com.example.ox_vsmuta_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtKs6dr0WfTozIfEq3Rc021UaSUEVz2Sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
